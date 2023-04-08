@@ -1,0 +1,20 @@
+.mparent{
+    margin: 50px;
+    padding: 35px;
+}
+
+.parent{
+    width: 50%;
+    background-color: aqua;
+    float: left;
+
+}
+
+.parimg{
+    width: 50%;
+    float: left;
+}
+
+img{
+    width: 258px;
+}
